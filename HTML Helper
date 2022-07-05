@@ -1,0 +1,4 @@
+@Html.LabelFor(model => model.Color, htmlAttributes: new{@class="control-label col-md-2"})
+
+//This will then update the label markup to include the CSS class attribute.
+
